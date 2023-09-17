@@ -1,2 +1,4 @@
 PyExifTool==0.5.5
-PySimpleGUI==4.60.5
+PySide2==5.15.2.1
+PySimpleGUIQt==0.35.0
+shiboken2==5.15.2.1
